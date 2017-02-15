@@ -1,4 +1,13 @@
 <?php echo $header; ?>
+<style > 
+.navbar-brand{
+display: none;
+}
+
+</style>
+<div class="login-logo"> 
+<img src="view/image/logo.png" >
+</div>
 <div id="content">
   <div class="container-fluid"><br />
     <br />
